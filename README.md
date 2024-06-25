@@ -1,15 +1,58 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+# Felipe Andrade Freitas - Tech Lead
 
+## 🌟 Sobre Mim 🌟
+Sou um apaixonado por tecnologia com mais de 7 anos de experiência em desenvolvimento de software e liderança técnica. Durante minha carreira, tenho me dedicado a criar soluções inovadoras e eficazes, sempre com foco na qualidade, escalabilidade e satisfação do cliente.
 
-# Felipe Andrade Freitas
+## 🔧 Experiência Profissional 🔧
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer .Net, iniciada a minha carreira de desenvolvimento a 3 anos com a oportunidade entregue pela *Squadra Tecnologia*. Venho ampliando o meu conhecimento para atender a todas as necessidades da empresa :computer:
+### Squadra – Tech Lead (11/2023 – Presente)
+- 🎯 Liderança de um projeto para grandes clientes de comunicação no Brasil, utilizando a plataforma low-code Wings para controle de processos dinâmicos.
+- 📈 Implementação de processos BPMN para otimização de fluxos.
 
- :rocket:  &nbsp; Estou trabalhando na **Squadra Tecnologia**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos Full-Stack usando .Net (E agora React, kkkk)
- <br/> :computer: &nbsp; Minha stack: .Net, .Net Core, ASP.Net, SQL, NoSQL, ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, seriados no Netflix e amo louvar ao meu Deus
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-FelipeAndradeFreitas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-andrade-freitas/)](https://www.linkedin.com/in/felipe-andrade-freitas/) 
-| [![Gmail Badge](https://img.shields.io/badge/-felipeandrade448@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeandrade448@gmail.com)](mailto:felipeandrade448@gmail.com)
+### Lyncas – Tech Lead/Consultor (03/2023 – 11/2023)
+- 🛠️ Desenvolvimento de integrações complexas com SAP usando micro-serviços, Clean Code, DDD e SOLID.
+- 🌐 Utilização de Docker, Kubernetes, Terraform e GitHub Actions para CI/CD.
+
+### FA Code – Tech Lead/Free-lancer (03/2023 – Presente)
+- 🎓 Formação e mentoria de novos desenvolvedores, com foco em escalabilidade e baixo custo.
+- 💡 Desenvolvimento de projetos internos com arquitetura distribuída, utilizando AWS, MongoDB e GraphQL.
+
+### Brass Brasil – Tech Lead (01/2022 – 03/2022)
+- 📊 Transformação digital com liderança de equipe e desenvolvimento de múltiplas soluções digitais.
+- 🛡️ Implementação de sistemas SaaS com integração Stripe para pagamentos.
+
+### Vorttex – Analista de Desenvolvedor de Software (05/2021 – 10/2022)
+- 🛒 Desenvolvimento de sistemas de checkout e gestão de pagamentos para a Riachuelo.
+- 🔄 Criação de sistemas de cadastro de sinistros em parceria com MDS e iFood.
+
+### Squadra – Analista de Desenvolvedor de Software (05/2017 – 05/2021)
+- 🚀 Participação em projetos importantes para empresas como ANM e Pottencial, adquirindo maturidade e aprimorando habilidades em tecnologias .NET e liderança técnica.
+
+## 📚 Educação 📚
+
+### Faculdade Cotemig (02/2018 – 06/2020)
+- 🎓 Análise e Desenvolvimento de Software
+
+### Pontifícia Universidade Católica de Minas Gerais (02/2024 – 05/2025)
+- 🎓 Arquitetura de Software Distribuído
+
+## 🏆 Habilidades Principais 🏆
+
+- **Liderança Técnica**
+- **Comunicação Eficaz**
+- **Resolução de Problemas**
+- **Gestão de Tempo e Projetos**
+- **Mentoria e Desenvolvimento de Equipe**
+- **Visão Estratégica**
+- **Adaptabilidade e Flexibilidade**
+- **Conhecimento em Tecnologias Modernas**
+
+## 🌐 Vamos Conectar! 🌐
+
+Estou sempre aberto a novas oportunidades e desafios. Vamos nos conectar para compartilhar conhecimentos e explorar novas possibilidades no mundo da tecnologia!
+
+**📧 Contato:** [felipeandrade448@gmail.com](mailto:felipeandrade448@gmail.com) | **🔗** [LinkedIn](https://www.linkedin.com/in/felipe-andrade-freitas/)
+
+---
+
+✨ Vamos juntos transformar o futuro da tecnologia! ✨
